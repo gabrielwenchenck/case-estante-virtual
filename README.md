@@ -163,6 +163,7 @@ BCRYPT_SALT_ROUNDS = 12
 - [Postman](https://documenter.getpostman.com/view/21578696/2s847EREDQ)
 
 ## Coverage
+![coverage_ev](https://user-images.githubusercontent.com/104534121/214390444-d584e7c7-9291-4df5-b29d-1587043e84b8.png)
 
 ## Tecnologias Utilizadas
 
